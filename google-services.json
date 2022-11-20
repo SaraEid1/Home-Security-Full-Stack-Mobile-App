@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475509222260",
+    "project_id": "homeyproject-6bab7",
+    "storage_bucket": "homeyproject-6bab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475509222260:android:a38e9f1784a5c6307eda21",
+        "android_client_info": {
+          "package_name": "com.astest.mypackage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475509222260-ntbi9mimgoptnam992cr02ep1n6h63gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAev9l4OluiOa8Xeqpn4qj_4uksLk4YCT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475509222260-ntbi9mimgoptnam992cr02ep1n6h63gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

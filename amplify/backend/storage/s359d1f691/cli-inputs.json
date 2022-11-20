@@ -1,0 +1,14 @@
+{
+  "resourceName": "s359d1f691",
+  "policyUUID": "59d1f691",
+  "bucketName": "homeyproject10db5628e5aa413b88247ba1a82aebad",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
