@@ -3,8 +3,8 @@
 # Mobile Application (React Native)
 
 <p>
-  <img src="/Screenshot_20220406_212841.png" width="450" /> 
-  <img src="/Screenshot_20220407_054241.png" width="450" />
+  <img src="/Screenshot_20220406_212841.png" width="400" /> 
+  <img src="/Screenshot_20220407_054241.png" width="400" />
 </p>
 
 
